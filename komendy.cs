@@ -14,7 +14,7 @@ using Discord.Audio;
 using Discord.Rest;
 using System.Windows.Forms;
 
-namespace TutorialBot.Modules
+namespace bot.moduly
 {
     public class Commands : ModuleBase<SocketCommandContext>
     {
